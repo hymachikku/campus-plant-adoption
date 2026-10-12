@@ -1,1 +1,1 @@
-# campus-plant-adoption
+# Main Branch - Git Lab
